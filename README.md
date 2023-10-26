@@ -1,6 +1,6 @@
 # awesome-lofi
 
-[playlist youtube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9YjXOXNxAtgopDMyVYQjc_c)
+[lien-playlist-youtube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9YjXOXNxAtgopDMyVYQjc_c)
 
 id | name
 -|-
