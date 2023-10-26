@@ -2,7 +2,8 @@
 
 playlist youtube : https://www.youtube.com/playlist?list=PLvYUTIn8qT9YjXOXNxAtgopDMyVYQjc_c
 
-id|name
+id | name
+-|-
 01 | frad - first date
 02 | I Was Lost Until I Met You
 03 | Sorry, I Like You
