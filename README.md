@@ -4,7 +4,7 @@
 
 id | name
 -|-
-01 | frad - frad - first date
+01 | frad - first date
 02 | sad boy with a laptop - Topic - I Was Lost Until I Met You
 03 | burbank - Sorry, I Like You
 04 | VICKY - potsu - going home w/ 増子奈保
